@@ -1,0 +1,10 @@
+## Interface: 11302
+
+## Title: King's honor, friend!
+
+## Notes: Honor the king.
+
+## Version: 1
+## Author: Coax-Gehennas
+
+Kingshonor.lua
